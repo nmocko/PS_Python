@@ -1,0 +1,9 @@
+ irowe reiow g
+ wajhtjw oirwj  \
+ gre gegrege jw
+ irewo oiwe  dsifa ie \
+ irowe reiow g
+         a=        1   +    2\
+*4\
+               -7
+print  (  a  )
